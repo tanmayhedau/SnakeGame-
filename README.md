@@ -3,10 +3,8 @@
 What is a snake game? What are we going to use in it?
 A snake game is an arcade game that involves a snake moving inside a box. Your score increases based on how many objects/fruit the snake eats. This will also increase the size of the snake. If it collides with itself or to the boundary of the box then the game is over.
 
-We are going to use the following tools to build our game:
+We are going to use the following web languages to build our game:
 
-1) Redux: To create and manage the global state for the application.
-2) Redux-saga: A redux middleware we'll use to manage async tasks.
-3) Canvas HTML tag: We'll use this to draw an object like a snake and the fruit.
-4) React: UI library.
-5) Chakra-UI: Component library.
+1)HTML
+2)CSS
+3)JAVASCRIPT
