@@ -5,6 +5,8 @@ A snake game is an arcade game that involves a snake moving inside a box. Your s
 
 We are going to use the following web languages to build our game:
 
-1)HTML
+1)HTML  
+
 2)CSS
+
 3)JAVASCRIPT
